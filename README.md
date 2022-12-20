@@ -1,1 +1,1 @@
-# timer este es un timer, puedes modificar el tiempo de duracion
+# Hola este es un timer,inicialmente comienza a descontar a partir de 5 minutos pero puedes cambiar la duración del tiempo en el botón de configuración. Puedes poner pausa en STOP y reanudar el descuento en START. Cuando finaliza el tiempo envia mensaje y se reinicia el timer.
