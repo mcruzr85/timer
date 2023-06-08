@@ -1,6 +1,6 @@
-# **TIMER** | Proyecto Individual de Videogames
+# **TIMER** 
 
-## **📌 OBJETIVOS**
+## **📌 **
 
 Este proyecto es un timer desarrollado utilizando HTML, CSS y JavaScript.
 
